@@ -42,3 +42,5 @@ pids/
 
 # Docker
 docker-compose.override.yml
+BusinessPlan.md
+CLAUDE.md
