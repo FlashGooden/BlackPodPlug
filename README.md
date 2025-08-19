@@ -1,5 +1,7 @@
 # BlackPodPlug
 
+<img width="850" height="850" alt="Screenshot 2025-08-18 at 1 53 43 PM" src="https://github.com/user-attachments/assets/91e1f4e0-4faa-4018-a5ee-7670113f0a27" />
+
 A culturally-focused podcast aggregator and discovery platform specifically for Black and African American podcasters.
 
 ## Project Structure
